@@ -1,24 +1,22 @@
-# Vancouver Datajam 2021 Project template 
+# Vaccination rates and Socioeconomic Status in BC
 
-This repository contains a Python project template.
-
-## Project title
 
 ## Project statement
 
+The goal of this project is to discover if there is a link between vaccination rates and a health region’s socioeconomic status, and if so, whether the socioeconomic status is a driver of vaccination rates.
+https://docs.google.com/document/d/1w1clbNlTbzOZwbzDYIOxFFG1UZpAFjclrAZhDFelYCY/
+
 ## Project team members
 
-Team lead:
+Team lead: Rachel Dunn
 
-Mentor:
+Mentor: Karab Sze
 
-Documentation:
+Team Members:
+<br />
 
-Scripting:
-
-Modelling: 
-
-Sanity checking: 
+*(Please indicate which area you would like to work on ie. Documentation, scripting, modelling, sanity checking <br />
+This is not a commitment, I just want an idea of what area people are interested in)*
 
 ## Vancouver Datajam 2021 Schedule:
 
