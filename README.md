@@ -12,7 +12,8 @@ Team lead: Rachel Dunn
 
 Mentor: Karab Sze
 
-Team Members:
+Team Members: 
+- Erin Gill aka makemyDNA - scripting / modelling (preferrably in Python)  
 <br />
 
 *(Please indicate which area you would like to work on ie. Documentation, scripting, modelling, sanity checking <br />
