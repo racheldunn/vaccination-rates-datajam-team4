@@ -18,6 +18,8 @@ Team Members:
 *(Please indicate which area you would like to work on ie. Documentation, scripting, modelling, sanity checking <br />
 This is not a commitment, I just want an idea of what area people are interested in)*
 
+Sangita Mitra: Data Visualization, Documentation
+
 ## Vancouver Datajam 2021 Schedule:
 
 ### Main page: https://vancouverdatajam.ca/
