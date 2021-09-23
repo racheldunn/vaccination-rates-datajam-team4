@@ -12,14 +12,14 @@ Team lead: Rachel Dunn
 
 Mentor: Karab Sze
 
-Team Members: 
-- Erin Gill aka makemyDNA - scripting / modelling (preferrably in Python)  
-<br />
+Team Members:  
 
 *(Please indicate which area you would like to work on ie. Documentation, scripting, modelling, sanity checking <br />
 This is not a commitment, I just want an idea of what area people are interested in)*
 
-Sangita Mitra: Data Visualization, Documentation
+- Sangita Mitra: Data Visualization, Documentation  
+- Erin Gill aka makemyDNA: scripting / modelling (preferrably in Python), data visualization
+<br />
 
 ## Vancouver Datajam 2021 Schedule:
 
