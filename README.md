@@ -19,6 +19,7 @@ This is not a commitment, I just want an idea of what area people are interested
 
 - Sangita Mitra: Data Visualization, Documentation  
 - Erin Gill aka makemyDNA: scripting / modelling (preferrably in Python), data visualization
+- Shrey Grover: Data collection, data processing and modelling
 <br />
 
 ## Vancouver Datajam 2021 Schedule:
