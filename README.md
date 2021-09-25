@@ -19,9 +19,6 @@ Mentor: Karab Sze
 
 Team Members:  
 
-*(Please indicate which area you would like to work on ie. Documentation, scripting, modelling, sanity checking <br />
-This is not a commitment, I just want an idea of what area people are interested in)*
-
 - Sangita Mitra 
 - Erin Gill
 - Melisa Fuentes
@@ -70,6 +67,10 @@ We analyzed the relationahip between vaccination rates and socioeconomic status 
 3. Interior Health
 4. Fraser Health
 5. Island Health
+
+## Results
+
+
 
 ## Vancouver Datajam 2021 Schedule:
 
