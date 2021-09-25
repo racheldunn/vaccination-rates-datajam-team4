@@ -1,0 +1,9 @@
+'Date', 'HA_Name', 'Doses_Received_Past_Week', 'New_Doses_Received', 'Tot_Doses_Received', 'Doses_Expected_This_Week', 'New_Doses_Admin', 'Tot_Doses_Admin', 'One_Dose_Admin', 'Two_Dose_Admin', 'Vaccine_Type', 'FID
+1618009200000, 'Fraser', 0, None, 42862, None, 4634, 41693, 41693, 0, 'AstraZeneca', 17
+1618009200000, 'Interior', 0, None, 6500, None, 15, 3410, 3410, 0, 'AstraZeneca', 18
+1618009200000, 'Northern', 0, None, 24000, None, 0, 5241, 5241, 0, 'AstraZeneca', 19
+1618009200000, 'Vancouver Coastal', 0, None, 30530, None, 2793, 22945, 22945, 0, 'AstraZeneca', 20
+1618009200000, 'Vancouver Island', 0, None, 500, None, 0, 439, 439, 0, 'AstraZeneca', 21
+1618009200000, 'First Nations', 0, None, 0, None, 0, 0, 0, 0, 'AstraZeneca', 22
+1618009200000, 'BCCDC', 188800, None, 0, None, 0, 0, 0, 0, 'AstraZeneca', 23
+1618009200000, 'BC', 188800, None, 265800, None, 7442, 73728, 73728, 0, 'AstraZeneca', 24
