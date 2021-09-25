@@ -70,9 +70,10 @@ We analyzed the relationahip between vaccination rates and socioeconomic status 
 
 ## Major Findings 
 
-1. Percenatge of detached houses negatively correlated with vaccine coverage. 
-2. Percentage of population being Chinese is also negatively correlated with vaccine coverage.
-3. The biggest predictor of vaccine coverage is % population with < high school education.
+1. Indigenous communities were negatively correlated with vaccination rates 
+2. Percenatge of detached houses negatively correlated with vaccine coverage. 
+3. Percentage of population being Chinese is also negatively correlated with vaccine coverage.
+4. The biggest predictor of vaccine coverage is % population with < high school education.
 
 ## Discussions
 
