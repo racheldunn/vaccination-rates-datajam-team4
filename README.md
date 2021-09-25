@@ -22,8 +22,13 @@ Team Members:
 *(Please indicate which area you would like to work on ie. Documentation, scripting, modelling, sanity checking <br />
 This is not a commitment, I just want an idea of what area people are interested in)*
 
-- Sangita Mitra: Data Visualization, Documentation  
-- Erin Gill aka makemyDNA: scripting / modelling (preferrably in Python), data visualization
+- Sangita Mitra 
+- Erin Gill
+- Melisa Fuentes:
+- Grace Liu
+- Evelyn Liu
+- Shrey Grover
+- Jeet
 <br />
 
 ## Data Collection and Preprocessing
@@ -41,6 +46,20 @@ Socioeconomic data were downloaded and formatted using the code in the following
 
 Vaccination data were downloaded and formatted using the code in the following notebook:
 - notebooks/vaccination-data-cleaning-exploration.ipynb
+
+Merged both datasets based on the health authority code (4 digits)
+
+## Exploratory Data Analysis (EDA)
+
+1. Performed EDA for fetures related with  
+
+-Canadian Index of Multiple Deprivation (CIMD) such as situational vulnerability, ethnocultural composition, economic dependency and residential instability
+-Ethnic identity and language
+-Household size, detached housing and state of housing
+-Education and income
+
+2. Analyzed the correlation of features with vaccination rate and identify highly correlated fetures
+3. Developed and evaluated a linear regression model with these features
 
 ## Project Description
 
