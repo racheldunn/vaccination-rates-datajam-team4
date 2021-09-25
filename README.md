@@ -68,8 +68,10 @@ We analyzed the relationahip between vaccination rates and socioeconomic status 
 4. Fraser Health
 5. Island Health
 
-## Results
+## Major Findings 
 
+1. Percenatge of detached houses negatively correlated with vaccine coverage. 
+2. Percentage of population being Chinese is also negatively correlated with vaccine coverage.
 
 
 ## Vancouver Datajam 2021 Schedule:
