@@ -72,6 +72,13 @@ We analyzed the relationahip between vaccination rates and socioeconomic status 
 
 1. Percenatge of detached houses negatively correlated with vaccine coverage. 
 2. Percentage of population being Chinese is also negatively correlated with vaccine coverage.
+3. The biggest predictor of vaccine coverage is % population with < high school education.
+
+## Discussions
+
+1. Assist health authorities in understanding what factors are driving vaccination rates across subregions
+2. Potentially amend policies based on targeted socioeconomic metrics that correlate with vaccination hesitancy
+3. Eventually, ensure vaccine inclusion amongst population of diverse demographics
 
 
 ## Vancouver Datajam 2021 Schedule:
