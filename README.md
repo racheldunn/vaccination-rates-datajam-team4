@@ -31,7 +31,7 @@ This is not a commitment, I just want an idea of what area people are interested
 ## Data Source: 
 
 1. [BC Community Health Data] (http://communityhealth.phsa.ca/CHSAHealthProfiles)
-
+2. COVID-19 Public Health dataset by health authority
 
 
 ## Project Description
