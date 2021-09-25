@@ -11,7 +11,6 @@ There are three main objectives in this project:
 2. Study socioeconomic factors 
 3. Study the relationship between vaccination rate and low socioeconomic status
 
-
 ## Project team members
 
 Team lead: Rachel Dunn
@@ -26,6 +25,24 @@ This is not a commitment, I just want an idea of what area people are interested
 - Sangita Mitra: Data Visualization, Documentation  
 - Erin Gill aka makemyDNA: scripting / modelling (preferrably in Python), data visualization
 <br />
+
+## Data Collection and Preprocessing
+
+## Data Source: 
+
+1. BC Community Health Data 
+
+
+
+## Project Description
+
+We analyzed the relationahip between vaccination rates and socioeconomic status between 5 health authories in BC. They are -
+
+1. Vancouver Coastal Health
+2. Norther Health
+3. Interior Health
+4. Fraser Health
+5. Island Health
 
 ## Vancouver Datajam 2021 Schedule:
 
