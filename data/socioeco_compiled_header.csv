@@ -1,0 +1,205 @@
+﻿header,Meaning
+m_0_4,Male Age group: 0 to 4
+m_5_9,Male Age group: 5 to 9
+m_10_14,Male Age group: 10 to 14
+m_15_19,Male Age group: 15 to 19
+m_20_24,Male Age group: 20 to 24
+m_25_29,Male Age group: 25 to 29
+m_30_34,Male Age group: 30 to 34
+m_35_39,Male Age group: 35 to 39
+m_40_44,Male Age group: 40 to 44
+m_45_49,Male Age group: 45 to 49
+m_50_54,Male Age group: 50 to 54
+m_55_59,Male Age group: 55 to 59
+m_60_64,Male Age group: 60 to 64
+m_65_69,Male Age group: 65 to 69
+m_70_74,Male Age group: 70 to 74
+m_75_79,Male Age group: 75 to 79
+m_80_84,Male Age group: 80 to 84
+m_85_89,Male Age group: 85 to 89
+m_90_94,Male Age group: 90 to 94
+m_95_99,Male Age group: 95 to 99
+m_100,Male Age group: 100+
+f_0_4,Female Age group: 0 to 4
+f_5_9,Female Age group: 5 to 9
+f_10_14,Female Age group: 10 to 14
+f_15_19,Female Age group: 15 to 19
+f_20_24,Female Age group: 20 to 24
+f_25_29,Female Age group: 25 to 29
+f_30_34,Female Age group: 30 to 34
+f_35_39,Female Age group: 35 to 39
+f_40_44,Female Age group: 40 to 44
+f_45_49,Female Age group: 45 to 49
+f_50_54,Female Age group: 50 to 54
+f_55_59,Female Age group: 55 to 59
+f_60_64,Female Age group: 60 to 64
+f_65_69,Female Age group: 65 to 69
+f_70_74,Female Age group: 70 to 74
+f_75_79,Female Age group: 75 to 79
+f_80_84,Female Age group: 80 to 84
+f_85_89,Female Age group: 85 to 89
+f_90_94,Female Age group: 90 to 94
+f_95_99,Female Age group: 95 to 99
+f_100,Female Age group: 100+
+total_pop,Total population
+total_f,Total number of females
+total_m,Total number of males
+percent_f,Percentage of females
+med_age,Median age
+percent_aboriginal,Percentage of people with Aboriginal identity
+percent_south_asian,Percentage of South Asians
+percent_chinese,Percentage of Chinese
+percent_black,Percentage of Blacks
+percent_filipino,Percentage of Filipinos
+percent_latin_american,Percentage of Latin Americans
+percent_arab,Percentage of Arabs
+percent_south_east_asian,Percentage of South East Asians
+percent_west_asian,Percentage of West Asians
+percent_korean,Percentage of Koreans
+percent_japanese,Percentage of Japanese
+percent_minority,Percentage of other visible minority
+percent_white,Percentage of Whites
+percent_immigrant,Percentage of immigrants
+percent_recent_immigrant,Percentage of recent immigrants
+percent_no_eng_fra,Percentage of population who speak neither English nor French
+percent_refugee,Percentage of refugees
+percent_married,Percentage of people (15+) married
+percent_never_married,Percentage of people (15+) never married
+percent_divorced,Percentage of people (15+) divorced
+percent_separated,Percentage of people (15+) separated
+percent_widowed,Percentage of people (15+) widowed
+single_parent_families,Total lone-parent families
+avg_household_size,Average household size
+total_private_dwellings,Total - Occupied private dwellings
+percent_detached_houses,Percentage of single detached houses
+percent_renters,Percentage of people renting
+percent_dwellings_need_repairs,Percentage of dwellings in need of major repairs
+percent_household_30pct_income_shelter,Percentage of households with 30% or more of income spent on shelter
+percent_pop_moved_last_5_yrs,Percentage of the population in 2016 who moved in the past 5 years
+median_total_income,Median total income of households in 2015 ($)
+low_income_prevalence,Prevalence of low income
+percent_less_than_high_school,Percentage of people (15+) with less than high school education
+percent_high_school,Percentage of people (15+) with a secondary (high) school diploma
+percent_postsecondary,Percentage of people (15+) with a postsecondary education
+employment_rate,Employment rate among people (15+)
+percent_commute_car,Percentage of people (15+) commuting to work by car
+percent_commute_transit,Percentage of people (15+) commuting to work by public transit
+percent_commute_walk,Percentage of people (15+) commuting to work by walking
+percent_commute_bike,Percentage of people (15+) commuting to work by bicycle
+percent_commute_other,Percentage of people (15+) commuting to work by other means
+percent_commute_over_hour,Percentage of people (15+) commuting to work for 60+ mins
+situational_vulnerability,Situational vulnerability
+ethnocultural_composition,Ethno-cultural composition
+economic_dependency,Economic dependency
+residential_instability,Residential instability
+proportion_has_GP_practitioner_0_19,Proportion of clients with attached GP practitioner status of Y (attached) stratified by CHSA and Age_group 0 to 19 years
+proportion_has_GP_practice_0_19,Proportion of clients with attached GP practice status of Y (attached) stratified by CHSA and Age_group 0 to 19 years
+proportion_has_GP_practitioner_f,Proportion of clients with attached GP practitioner status of Y (attached) stratified by CHSA and sex (female)
+proportion_has_GP_practice_f,Proportion of clients with attached GP practice status of Y (attached) stratified by CHSA and sex (female)
+proportion_has_GP_practitioner,Proportion of clients with attached GP practitioner status of Y (attached) stratified by CHSA level
+proportion_has_GP_practice,Proportion of clients with attached GP practice status of Y (attached) stratified by CHSA level
+proportion_has_GP_practitioner_20_64,Proportion of clients with attached GP practitioner status of Y (attached) stratified by CHSA and Age_group 20 to 64 year
+proportion_has_GP_practice_20_64,Proportion of clients with attached GP practice status of Y (attached) stratified by CHSA and Age_group 20 to 64 year
+proportion_has_GP_practitioner_65,Proportion of clients with attached GP practitioner status of Y (attached) stratified by CHSA and Age_group 65 years and
+proportion_has_GP_practice_65,Proportion of clients with attached GP practice status of Y (attached) stratified by CHSA and Age_group 65 years and
+proportion_has_GP_practitioner_m,Proportion of clients with attached GP practitioner status of Y (attached) stratified by CHSA and sex (male)
+proportion_has_GP_practice_m,Proportion of clients with attached GP practice status of Y (attached) stratified by CHSA and sex (male)
+cancer_incidence,Incidence count of All Cancers
+pop_at_risk_cancer,Population at risk for All Cancers
+cancer_incidence_per_100000,Crude incidence rate of All Cancers(per 100 000)
+mortality_count_cancer,Mortality count of All Cancers
+cancer_mortality_per_100000,Crude mortality rate of All Cancers(per 100 000)
+colorectal_cancer_incidence,Incidence count of Colorectal Cancer
+pop_at_risk_colorectal_cancer,Population at risk for Colorectal Cancer
+colorectal_cancer_incidence_per_100000,Crude incidence rate of Colorectal Cancer(per 100 000)
+mortality_count_colorectal_cancer,Mortality count of Colorectal Cancer
+colorectal_cancer_mortality_per_1000000,Crude mortality rate of Colorectal Cancer(per 100 000)
+breast_cancer_incidence,Incidence count of Female Breast Cancer
+pop_at_risk_breast_cancer,Population at risk for Female Breast Cancer
+breast_cancer_incidence_per_100000,Crude incidence rate of Female Breast Cancer(per 100 000)
+mortality_count_breast_cancer,Mortality count of Female Breast Cancer
+breast_cancer_mortality_per_1000000,Crude mortality rate of Female Breast Cancer(per 100 000)
+myocardial_infarction_incidence_per_1000,Acute Myocardial Infarction (Age 20+) crude incidence rate per 1000 population
+myocardial_infarction_prevalence_per_100,Acute Myocardial Infarction (Age 20+) crude prevalence rate per 100 population
+myocardial_infarction_age_standardized_incidence_per_1000,Acute Myocardial Infarction (Age 20+) age-standardized incidence rate per 1000 population
+myocardial_infarction_age_standardized_prevalence_per_100,Acute Myocardial Infarction (Age 20+) age-standardized prevalence rate per 100 population
+dimentia_incidence_per_1000,Alzheimer's Disease and Other Dementia (Age 40+) crude incidence rate per 1000 population
+dimentia_prevalence_per_100,Alzheimer's Disease and Other Dementia (Age 40+) crude prevalence rate per 100 population
+dimentia_age_standardized_incidence_per_1000,Alzheimer's Disease and Other Dementia (Age 40+) age-standardized incidence rate per 1000 population
+dimentia_age_standardized_prevalence_per_100,Alzheimer's Disease and Other Dementia (Age 40+) age-standardized prevalence rate per 100 population
+asthma_incidence_per_1000,Asthma (Age 1+) crude incidence rate per 1000 population
+asthma_prevalence_per_100,Asthma (Age 1+) crude prevalence rate per 100 population
+asthma_age_standardized_incidence_per_1000,Asthma (Age 1+) age-standardized incidence rate per 1000 population
+asthma_age_standardized_prevalence_per_100,Asthma (Age 1+) age-standardized prevalence rate per 100 population
+kidney_disease_incidence_per_1000,Chronic Kidney Disease (Age 1+) crude incidence rate per 1000 population
+kidney_disease_prevalence_per_100,Chronic Kidney Disease (Age 1+) crude prevalence rate per 100 population
+kidney_disease_age_standardized_incidence_per_1000,Chronic Kidney Disease (Age 1+) age-standardized incidence rate per 1000 population
+kidney_disease_age_standardized_prevalence_per_100,Chronic Kidney Disease (Age 1+) age-standardized prevalence rate per 100 population
+COPD_incidence_per_1000,Chronic Obstructive Pulmonary Disease (Age 35+) crude incidence rate per 1000 population
+COPD_prevalence_per_100,Chronic Obstructive Pulmonary Disease (Age 35+) crude prevalence rate per 100 population
+COPD_age_standardized_incidence_per_1000,Chronic Obstructive Pulmonary Disease (Age 35+) age-standardized incidence rate per 1000 population
+COPD_age_standardized_prevalence_per_100,Chronic Obstructive Pulmonary Disease (Age 35+) age-standardized prevalence rate per 100 population
+depression_incidence_per_1000,Depression (Age 1+) crude incidence rate per 1000 population
+depression_prevalence_per_100,Depression (Age 1+) crude prevalence rate per 100 population
+depression_age_standardized_incidence_per_1000,Depression (Age 1+) age-standardized incidence rate per 1000 population
+depression_age_standardized_prevalence_per_100,Depression (Age 1+) age-standardized prevalence rate per 100 population
+diabetes_incidence_per_1000,Diabetes (Age 1+) crude incidence rate per 1000 population
+diabetes_prevalence_per_100,Diabetes (Age 1+) crude prevalence rate per 100 population
+diabetes_age_standardized_incidence_per_1000,Diabetes (Age 1+) age-standardized incidence rate per 1000 population
+diabetes_age_standardized_prevalence_per_100,Diabetes (Age 1+) age-standardized prevalence rate per 100 population
+epilepsy_incidence_per_1000,Epilepsy (Age 1+) crude incidence rate per 1000 population
+epilepsy_prevalence_per_100,Epilepsy (Age 1+) crude prevalence rate per 100 population
+epilepsy_age_standardized_incidence_per_1000,Epilepsy (Age 1+) age-standardized incidence rate per 1000 population
+epilepsy_age_standardized_prevalence_per_100,Epilepsy (Age 1+) age-standardized prevalence rate per 100 population
+gout_incidence_per_1000,Gout (Age 20+) crude incidence rate per 1000 population
+gout_prevalence_per_100,Gout (Age 20+) crude prevalence rate per 100 population
+gout_age_standardized_incidence_per_1000,Gout (Age 20+) age-standardized incidence rate per 1000 population
+gout_age_standardized_prevalence_per_100,Gout (Age 20+) age-standardized prevalence rate per 100 population
+heart_failure_incidence_per_1000,Heart Failure (Age 1+) crude incidence rate per 1000 population
+heart_failure_prevalence_per_100,Heart Failure (Age 1+) crude prevalence rate per 100 population
+heart_failure_age_standardized_incidence_per_1000,Heart Failure (Age 1+) age-standardized incidence rate per 1000 population
+heart_failure_age_standardized_prevalence_per_100,Heart Failure (Age 1+) age-standardized prevalence rate per 100 population
+stroke_incidence_per_1000,Hospitalized Stroke (Age 20+) crude incidence rate per 1000 population
+stroke_prevalence_per_100,Hospitalized Stroke (Age 20+) crude prevalence rate per 100 population
+stroke_age_standardized_incidence_per_1000,Hospitalized Stroke (Age 20+) age-standardized incidence rate per 1000 population
+stroke_age_standardized_prevalence_per_100,Hospitalized Stroke (Age 20+) age-standardized prevalence rate per 100 population
+hypertension_incidence_per_1000,Hypertension (Age 20+) crude incidence rate per 1000 population
+hypertension_prevalence_per_100,Hypertension (Age 20+) crude prevalence rate per 100 population
+hypertension_age_standardized_incidence_per_1000,Hypertension (Age 20+) age-standardized incidence rate per 1000 population
+hypertension_age_standardized_prevalence_per_100,Hypertension (Age 20+) age-standardized prevalence rate per 100 population
+ischemic_hd_incidence_per_1000,Ischemic Heart Disease (Age 20+) crude incidence rate per 1000 population
+ischemic_hd_prevalence_per_100,Ischemic Heart Disease (Age 20+) crude prevalence rate per 100 population
+ischemic_hd_age_standardized_incidence_per_1000,Ischemic Heart Disease (Age 20+) age-standardized incidence rate per 1000 population
+ischemic_hd_age_standardized_prevalence_per_100,Ischemic Heart Disease (Age 20+) age-standardized prevalence rate per 100 population
+mood_anxiety_incidence_per_1000,Mood & Anxiety Disorders (Age 1+) crude incidence rate per 1000 population
+mood_anxiety_prevalence_per_100,Mood & Anxiety Disorders (Age 1+) crude prevalence rate per 100 population
+mood_anxiety_age_standardized_incidence_per_1000,Mood & Anxiety Disorders (Age 1+) age-standardized incidence rate per 1000 population
+mood_anxiety_age_standardized_prevalence_per_100,Mood & Anxiety Disorders (Age 1+) age-standardized prevalence rate per 100 population
+MS_incidence_per_1000,Multiple Sclerosis (Age 20+) crude incidence rate per 1000 population
+MS_prevalence_per_100,Multiple Sclerosis (Age 20+) crude prevalence rate per 100 population
+MS_age_standardized_incidence_per_1000,Multiple Sclerosis (Age 20+) age-standardized incidence rate per 1000 population
+MS_age_standardized_prevalence_per_100,Multiple Sclerosis (Age 20+) age-standardized prevalence rate per 100 population
+osteoarthritis_incidence_per_1000,Osteoarthritis (Age 1+) crude incidence rate per 1000 population
+osteoarthritis_prevalence_per_100,Osteoarthritis (Age 1+) crude prevalence rate per 100 population
+osteoarthritis_age_standardized_incidence_per_1000,Osteoarthritis (Age 1+) age-standardized incidence rate per 1000 population
+osteoarthritis_age_standardized_prevalence_per_100,Osteoarthritis (Age 1+) age-standardized prevalence rate per 100 population
+osteoporosis_incidence_per_1000,Osteoporosis (Age 50+) crude incidence rate per 1000 population
+osteoporosis_prevalence_per_100,Osteoporosis (Age 50+) crude prevalence rate per 100 population
+osteoporosis_age_standardized_incidence_per_1000,Osteoporosis (Age 50+) age-standardized incidence rate per 1000 population
+osteoporosis_age_standardized_prevalence_per_100,Osteoporosis (Age 50+) age-standardized prevalence rate per 100 population
+parkinsons_incidence_per_1000,Parkinsonism (Age 40+) crude incidence rate per 1000 population
+parkinsons_prevalence_per_100,Parkinsonism (Age 40+) crude prevalence rate per 100 population
+parkinsons_age_standardized_incidence_per_1000,Parkinsonism (Age 40+) age-standardized incidence rate per 1000 population
+parkinsons_age_standardized_prevalence_per_100,Parkinsonism (Age 40+) age-standardized prevalence rate per 100 population
+rheumatoid_arthritis_incidence_per_1000,Rheumatoid Arthritis (Age 1+) crude incidence rate per 1000 population
+rheumatoid_arthritis_prevalence_per_100,Rheumatoid Arthritis (Age 1+) crude prevalence rate per 100 population
+rheumatoid_arthritis_age_standardized_incidence_per_1000,Rheumatoid Arthritis (Age 1+) age-standardized incidence rate per 1000 population
+rheumatoid_arthritis_age_standardized_prevalence_per_100,Rheumatoid Arthritis (Age 1+) age-standardized prevalence rate per 100 population
+schizophrenia_incidence_per_1000,Schizophrenia and Delusional Disorders (Age 10+) crude incidence rate per 1000 population
+schizophrenia_prevalence_per_100,Schizophrenia and Delusional Disorders (Age 10+) crude prevalence rate per 100 population
+schizophrenia_age_standardized_incidence_per_1000,Schizophrenia and Delusional Disorders (Age 10+) age-standardized incidence rate per 1000 population
+schizophrenia_age_standardized_prevalence_per_100,Schizophrenia and Delusional Disorders (Age 10+) age-standardized prevalence rate per 100 population
+hsa,
+subregion,
+proportion_has_GP_practitioner,
+proportion_has_GP_practice,
