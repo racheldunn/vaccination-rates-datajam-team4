@@ -50,10 +50,10 @@ Merged both datasets based on the health authority code (4 digits)
 
 1. Performed EDA for fetures related with  
 
--Canadian Index of Multiple Deprivation (CIMD) such as situational vulnerability, ethnocultural composition, economic dependency and residential instability
--Ethnic identity and language
--Household size, detached housing and state of housing
--Education and income
+i. Canadian Index of Multiple Deprivation (CIMD) such as situational vulnerability, ethnocultural composition, economic dependency and residential instability
+ii. Ethnic identity and language
+iii. Household size, detached housing and state of housing
+iv. Education and income
 
 2. Analyzed the correlation of features with vaccination rate and identify highly correlated fetures
 3. Developed and evaluated a linear regression model with these features
