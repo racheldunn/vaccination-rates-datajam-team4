@@ -72,7 +72,7 @@ We analyzed the relationahip between vaccination rates and socioeconomic status 
 
 1. Indigenous communities were negatively correlated with vaccination rates 
 2. Percenatge of detached houses negatively correlated with vaccine coverage. 
-3. Percentage of population being Chinese is also negatively correlated with vaccine coverage.
+3. Percentage of Filipino population positively correlated with vaccine coverage whereas percentage of Chinese population negatively correlated with vaccine coverage.
 4. The biggest predictor of vaccine coverage is percenatge of population with less than high school education level.
 
 ## Discussions
