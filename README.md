@@ -6,6 +6,11 @@
 The goal of this project is to discover if there is a link between vaccination rates and a health region’s socioeconomic status, and if so, whether the socioeconomic status is a driver of vaccination rates.
 https://docs.google.com/document/d/1w1clbNlTbzOZwbzDYIOxFFG1UZpAFjclrAZhDFelYCY/
 
+There are three main objectives in this project:
+1. Study vaccination rates
+2. Study socioeconomic factors 
+3. Study the relationship between vaccination rate and low socioeconomic status
+
 ## Project team members
 
 Team lead: Rachel Dunn
@@ -14,12 +19,71 @@ Mentor: Karab Sze
 
 Team Members:  
 
-*(Please indicate which area you would like to work on ie. Documentation, scripting, modelling, sanity checking <br />
-This is not a commitment, I just want an idea of what area people are interested in)*
+- Melisa Fuentes - Exploratory data analysis and visualization 
+- Erin Gill - Data pulling and wrangling, exploratory data analysis, data visualization, correlation analysis, documentation
+- Grace Liu - Documentation
+- Evelyn Liu - Documentation
+- Sangita Mitra - Data visualization, feature selection, Documentation
+- Rachel Dunn - Data visualization, multivariable modelling
+- Jeet Trivedi - Data pulling and wrangling, feature selection exploration, multivariate modelling
+- Shrey Grover - Data pulling and wrangling, feature selection, multivariate modelling
+- Karab Sze - Exploratory data analysis
 
-- Sangita Mitra: Data Visualization, Documentation  
-- Erin Gill aka makemyDNA: scripting / modelling (preferrably in Python), data visualization
 <br />
+
+## Data Collection and Preprocessing
+
+## Data Source: 
+
+1. [BC Community Health Data] (http://communityhealth.phsa.ca/CHSAHealthProfiles)
+2. COVID-19 Public Health dataset by health authority
+
+## Data Wrangling:
+Socioeconomic data were downloaded and formatted using the code in the following notebooks and scripts:
+- notebooks/download_socioeco_scvs.ipynb
+- notebooks/collate_socioeco_scvs.ipynb
+- scripts/rename_socio_df_columns.py
+
+Vaccination data were downloaded and formatted using the code in the following notebook:
+- notebooks/vaccination-data-cleaning-exploration.ipynb
+
+Merged both datasets based on the health authority code (4 digits)
+
+## Exploratory Data Analysis (EDA)
+
+1. Performed EDA for fetures related with  
+
+i. Canadian Index of Multiple Deprivation (CIMD) such as situational vulnerability, ethnocultural composition, economic dependency and residential instability <br />
+ii. Ethnic identity and language <br />
+iii. Household size, detached housing and state of housing <br />
+iv. Education and income <br />
+
+2. Analyzed the correlation of features with vaccination rate and identify highly correlated fetures
+3. Developed and evaluated a linear regression model with these features
+
+## Project Description
+
+We analyzed the relationahip between vaccination rates and socioeconomic status between 5 health authories in BC. They are -
+
+1. Vancouver Coastal Health
+2. Norther Health
+3. Interior Health
+4. Fraser Health
+5. Island Health
+
+## Major Findings 
+
+1. Indigenous communities were negatively correlated with vaccination rates 
+2. Percenatge of detached houses negatively correlated with vaccine coverage. 
+3. Percentage of Filipino population positively correlated with vaccine coverage whereas percentage of Chinese population negatively correlated with vaccine coverage.
+4. The biggest predictor of vaccine coverage is percenatge of population with less than high school education level.
+
+## Discussions
+
+1. Assist health authorities in understanding what factors are driving vaccination rates across subregions.
+2. Potentially amend policies based on targeted socioeconomic metrics that correlate with vaccination hesitancy
+3. Eventually, ensure vaccine inclusion amongst population of diverse demographics
+
 
 ## Vancouver Datajam 2021 Schedule:
 
