@@ -6,6 +6,12 @@
 The goal of this project is to discover if there is a link between vaccination rates and a health region’s socioeconomic status, and if so, whether the socioeconomic status is a driver of vaccination rates.
 https://docs.google.com/document/d/1w1clbNlTbzOZwbzDYIOxFFG1UZpAFjclrAZhDFelYCY/
 
+There are three main objectives in this project:
+1. Study vaccination rates
+2. Study socioeconomic factors 
+3. Study the relationship between vaccination rate and low socioeconomic status
+
+
 ## Project team members
 
 Team lead: Rachel Dunn
