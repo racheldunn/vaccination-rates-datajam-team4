@@ -30,7 +30,7 @@ This is not a commitment, I just want an idea of what area people are interested
 
 ## Data Source: 
 
-1. BC Community Health Data 
+1. [BC Community Health Data] (http://communityhealth.phsa.ca/CHSAHealthProfiles)
 
 
 
