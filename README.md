@@ -19,13 +19,16 @@ Mentor: Karab Sze
 
 Team Members:  
 
-- Sangita Mitra 
-- Erin Gill
-- Melisa Fuentes
-- Grace Liu
-- Evelyn Liu
-- Shrey Grover
-- Jeet
+- Melisa Fuentes - Exploratory data analysis and visualization 
+- Erin Gill - Data pulling and wrangling, exploratory data analysis, data visualization, correlation analysis, documentation
+- Grace Liu - Documentation
+- Evelyn Liu - Documentation
+- Sangita Mitra - Data visualization, feature selection, Documentation
+- Rachel Dunn - Data visualization, multivariable modelling
+- Jeet Trivedi - Data pulling and wrangling, feature selection exploration, multivariate modelling
+- Shrey Grover - Data pulling and wrangling, feature selection, multivariate modelling
+- Karab Sze - Exploratory data analysis
+
 <br />
 
 ## Data Collection and Preprocessing
