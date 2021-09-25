@@ -24,7 +24,7 @@ This is not a commitment, I just want an idea of what area people are interested
 
 - Sangita Mitra 
 - Erin Gill
-- Melisa Fuentes:
+- Melisa Fuentes
 - Grace Liu
 - Evelyn Liu
 - Shrey Grover
