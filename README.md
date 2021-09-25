@@ -33,6 +33,14 @@ This is not a commitment, I just want an idea of what area people are interested
 1. [BC Community Health Data] (http://communityhealth.phsa.ca/CHSAHealthProfiles)
 2. COVID-19 Public Health dataset by health authority
 
+## Data Wrangling:
+Socioeconomic data were downloaded and formatted using the code in the following notebooks and scripts:
+- notebooks/download_socioeco_scvs.ipynb
+- notebooks/collate_socioeco_scvs.ipynb
+- scripts/rename_socio_df_columns.py
+
+Vaccination data were downloaded and formatted using the code in the following notebook:
+- notebooks/vaccination-data-cleaning-exploration.ipynb
 
 ## Project Description
 
