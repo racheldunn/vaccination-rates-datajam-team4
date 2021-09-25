@@ -1,0 +1,9 @@
+'Date', 'HA_Name', 'Doses_Received_Past_Week', 'New_Doses_Received', 'Tot_Doses_Received', 'Doses_Expected_This_Week', 'New_Doses_Admin', 'Tot_Doses_Admin', 'One_Dose_Admin', 'Two_Dose_Admin', 'Vaccine_Type', 'FID
+1615590000000, 'Fraser', 15600, None, 24800, None, 154, 7229, 4169, 3060, 'Moderna', 9
+1615590000000, 'Interior', 2400, None, 22800, None, 316, 14399, 10530, 3869, 'Moderna', 10
+1615590000000, 'Northern', 0, None, 7700, None, 10, 2404, 1703, 701, 'Moderna', 11
+1615590000000, 'Vancouver Coastal', 10900, None, 19600, None, 538, 6893, 4447, 2446, 'Moderna', 12
+1615590000000, 'Vancouver Island', 9300, None, 34600, None, 276, 18773, 16933, 1840, 'Moderna', 13
+1615590000000, 'First Nations', 0, None, 8800, None, 922, 27195, 22168, 5027, 'Moderna', 14
+1615590000000, 'BCCDC', 4000, None, 4000, None, 0, 0, 0, 0, 'Moderna', 15
+1615590000000, 'BC', 42200, None, 122300, None, 2216, 76893, 59950, 16943, 'Moderna', 16
