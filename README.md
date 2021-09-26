@@ -23,7 +23,7 @@ Team Members:
 - Erin Gill - Data pulling and wrangling, exploratory data analysis, data visualization, correlation analysis, documentation
 - Grace Liu - Documentation
 - Evelyn Liu - Documentation
-- Sangita Mitra - Data visualization, feature selection, Documentation
+- Sangita Mitra - Data visualization, feature selection, documentation
 - Rachel Dunn - Data visualization, multivariable modelling
 - Jeet Trivedi - Data pulling and wrangling, feature selection exploration, multivariate modelling
 - Shrey Grover - Data pulling and wrangling, feature selection, multivariate modelling
@@ -74,7 +74,7 @@ We analyzed the relationahip between vaccination rates and socioeconomic status 
 ## Major Findings 
 
 1. Indigenous communities were negatively correlated with vaccination rates 
-2. Percenatge of detached houses negatively correlated with vaccine coverage. 
+2. Percenatge of detached houses negatively correlated with vaccine coverage as we expect more detached housing in rural areas. 
 3. Percentage of Filipino population positively correlated with vaccine coverage whereas percentage of Chinese population negatively correlated with vaccine coverage.
 4. The biggest predictor of vaccine coverage is percenatge of population with less than high school education level.
 
